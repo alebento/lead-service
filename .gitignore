@@ -1,0 +1,6 @@
+# .NET (C#)
+bin/
+obj/
+.vs/
+*.db
+appsettings.json
