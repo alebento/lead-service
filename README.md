@@ -87,9 +87,7 @@ A API estará disponível em `http://localhost:5000/swagger` para visualização
 ### LeadsController
 
 - **GET /api/leads** → Retorna todos os leads
-- **POST /api/leads** → Cria um novo lead
 - **PUT /api/leads/{id}** → Atualiza um lead existente
-- **GET /api/leads/accepted** → Retorna os leads aceitos
 
 ## Contribuição
 
